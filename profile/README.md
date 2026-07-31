@@ -1,5 +1,3 @@
-# Jay Brownlee
+# This is where I put my stuff!
 
-## Building with [Polyvise →](https://github.com/polyvise)
-
-Explore projects and work from [Polyvise](https://github.com/polyvise).
+Explore my other project at [github.com/polyvise](https://github.com/polyvise)
