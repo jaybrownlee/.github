@@ -1,3 +1,4 @@
-# This is where I put my stuff!
+# This is where I put things
 
-Explore my other project at [github.com/polyvise](https://github.com/polyvise)
+I also put things here:
+[github.com/polyvise](https://github.com/polyvise)
